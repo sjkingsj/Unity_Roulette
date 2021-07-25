@@ -1,12 +1,12 @@
 # 실행 예시
 
-![3.1](C:\Users\User\Desktop\3.1.jpg)
+![3 1](https://user-images.githubusercontent.com/87646938/126896968-02e25332-e9c1-46d5-aa88-9a37d6e15501.jpg)
 
 - 실행 화면
 
 
 
-![3.2](C:\Users\User\Desktop\3.2.jpg)
+![3 2](https://user-images.githubusercontent.com/87646938/126896977-d342db15-ec84-414e-8d32-e22d809d970a.jpg)
 
 - 화면을 누르면 룰렛이 돌아가다 감속한다.
 
